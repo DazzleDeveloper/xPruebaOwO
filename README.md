@@ -1,5 +1,6 @@
 # Hola 💬
-![logo1](https://github.com/DazzleDeveloper/xPruebaOwO/issues/1#issue-2560552212)
+![angular-1](https://github.com/user-attachments/assets/c215a77b-8bc8-431a-8240-e49f2c2afdba)
+
 
 
 Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
